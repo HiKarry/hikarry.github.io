@@ -29,7 +29,13 @@
         "title": "游戏攻略"
     }, 
     {
-        "articles": [], 
+        "articles": [
+            {
+                "url": "instance/altonia", 
+                "author": "帅涛", 
+                "title": "阿尔托利亚遗迹"
+            }
+        ], 
         "title": "副本攻略"
     }, 
     {
