@@ -3,9 +3,10 @@
     "message" : "成功",
     "data" : {
         "update" : true,
+        "method" : "qq",
         "title" : "发现新版本",
-        "message" : "更新版本后才能继续使用",
-        "url" : "http://fooapp.com/empire",
+        "message" : "请加入QQ群344605673下载新版本",
+        "url" : "http://www.fooapp.com/empire",
         "version" : 120
     }
 }
