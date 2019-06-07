@@ -70,5 +70,5 @@
 
 效果如下(点击图标显示任务详情)：
 
-<a href="http://helper/task/54964"><img src="/empire/image/task/mark.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>隐藏的卷轴</span><br/>
+<a href="http://helper/task/54964"><img src="/empire/image/task/task.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>隐藏的卷轴</span><br/>
 
