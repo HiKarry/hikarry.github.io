@@ -25,7 +25,13 @@
         "title": "投稿教程"
     }, 
     {
-        "articles": [], 
+        "articles": [
+            {
+                "url": "game/download", 
+                "author": "小螃蟹", 
+                "title": "游戏下载教程"
+            }
+        ], 
         "title": "游戏攻略"
     }, 
     {
