@@ -2,22 +2,22 @@
     {
         "articles": [
             {
-                "url": "publish/create_article", 
+                "url": "publish/create_article/", 
                 "author": "小螃蟹", 
                 "title": "文章书写规范"
             }, 
             {
-                "url": "publish/md_grammar_base", 
+                "url": "publish/md_grammar_base/", 
                 "author": "小螃蟹", 
                 "title": "Markdown基础语法"
             }, 
             {
-                "url": "publish/md_grammar_plus", 
+                "url": "publish/md_grammar_plus/", 
                 "author": "小螃蟹", 
                 "title": "Markdown进阶语法"
             }, 
             {
-                "url": "publish/publish", 
+                "url": "publish/publish/", 
                 "author": "小螃蟹", 
                 "title": "投稿方式"
             }
@@ -27,7 +27,7 @@
     {
         "articles": [
             {
-                "url": "game/download", 
+                "url": "game/download/", 
                 "author": "小螃蟹", 
                 "title": "游戏下载教程"
             }
@@ -37,7 +37,7 @@
     {
         "articles": [
             {
-                "url": "instance/altonia", 
+                "url": "instance/altonia/", 
                 "author": "帅涛", 
                 "title": "阿尔托利亚遗迹"
             }
