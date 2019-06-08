@@ -30,6 +30,16 @@
                 "url": "game/download/", 
                 "author": "小螃蟹", 
                 "title": "游戏下载教程"
+            }, 
+            {
+                "url": "game/magic_cream/", 
+                "author": "小螃蟹", 
+                "title": "魔力精华分解一览表"
+            }, 
+            {
+                "url": "game/pylon/", 
+                "author": "小螃蟹", 
+                "title": "幽能范围值一览表"
             }
         ], 
         "title": "游戏攻略"
