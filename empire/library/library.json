@@ -27,19 +27,34 @@
     {
         "articles": [
             {
-                "url": "game/download/", 
+                "url": "data/download/", 
                 "author": "小螃蟹", 
                 "title": "游戏下载教程"
             }, 
             {
-                "url": "game/magic_cream/", 
+                "url": "data/magic_cream/", 
                 "author": "小螃蟹", 
                 "title": "魔力精华分解一览表"
             }, 
             {
-                "url": "game/pylon/", 
+                "url": "data/pylon/", 
                 "author": "小螃蟹", 
                 "title": "幽能范围值一览表"
+            }
+        ], 
+        "title": "游戏资料"
+    }, 
+    {
+        "articles": [
+            {
+                "url": "game/level_up/", 
+                "author": "帅涛", 
+                "title": "《帝国Online》练级篇"
+            }, 
+            {
+                "url": "game/tiger_wing/", 
+                "author": "帅涛", 
+                "title": "免费获得《虎翼》"
             }
         ], 
         "title": "游戏攻略"
