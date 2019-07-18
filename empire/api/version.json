@@ -4,8 +4,9 @@
     "data" : {
         "update" : true,
         "method" : "qq",
+        "groupkey" : "sSGSP_VllvgQj0oFsPsqqDofq60FToMJ",
         "title" : "发现新版本",
-        "message" : "请加入QQ群737808889下载新版本",
+        "message" : "请【手动搜索】QQ群737808889下载新版本",
         "url" : "http://www.fooapp.com/empire",
         "version" : 123
     }
