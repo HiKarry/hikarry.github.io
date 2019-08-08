@@ -22,28 +22,28 @@
 <a href="http://helper/skill/62696"><img src="/empire/image/skill/46_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>拳法(10级)</span><br/>
 
 
-<a href="http://helper/skill/54804"><img src="/empire/image/skill/54_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>战士的心(10级)</span><br/>
+<a href="http://helper/skill/54804"><img src="/empire/image/skill/54_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>戰士的心(10级)</span><br/>
 
 
-<a href="http://helper/skill/5848"><img src="/empire/image/skill/96_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>神器师战斗训练(10级)</span><br/>
+<a href="http://helper/skill/5848"><img src="/empire/image/skill/96_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>神器師戰鬥訓練(10级)</span><br/>
 
 
-<a href="http://helper/skill/5168"><img src="/empire/image/skill/49_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>近距离战斗(10级)</span><br/>
+<a href="http://helper/skill/5168"><img src="/empire/image/skill/49_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>近距離戰鬥(10级)</span><br/>
 
 
 <a href="http://helper/skill/42332"><img src="/empire/image/skill/74_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>熊的力量(10级)</span><br/>
 
 
-<a href="http://helper/skill/4136"><img src="/empire/image/skill/82_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>炮击训练(10级)</span><br/>
+<a href="http://helper/skill/4136"><img src="/empire/image/skill/82_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>炮擊訓練(10级)</span><br/>
 
 
-<a href="http://helper/skill/4300"><img src="/empire/image/skill/106_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>铳枪炮术师(10级)</span><br/>
+<a href="http://helper/skill/4300"><img src="/empire/image/skill/106_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>銃槍炮術師(10级)</span><br/>
 
 
-<a href="http://helper/skill/53864"><img src="/empire/image/skill/34_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>武器熟练(10级)</span><br/>
+<a href="http://helper/skill/53864"><img src="/empire/image/skill/34_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>武器熟練(10级)</span><br/>
 
 
-<a href="http://helper/skill/42480"><img src="/empire/image/skill/96_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>鹰的眼睛(10级)</span><br/>
+<a href="http://helper/skill/42480"><img src="/empire/image/skill/96_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>鷹的眼睛(10级)</span><br/>
 
 
 <a href="http://helper/skill/29604"><img src="/empire/image/skill/55_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>生命交易(10级)</span><br/>
@@ -52,7 +52,7 @@
 <a href="http://helper/skill/29440"><img src="/empire/image/skill/61_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>魔法交易(10级)</span><br/>
 
 
-<a href="http://helper/skill/20280"><img src="/empire/image/skill/70_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>丛林战斗训练(10级)</span><br/>
+<a href="http://helper/skill/20280"><img src="/empire/image/skill/70_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>叢林戰鬥訓練(10级)</span><br/>
 
 
 <a href="http://helper/skill/19880"><img src="/empire/image/skill/20_2.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>天神之臂(10级)</span><br/>
