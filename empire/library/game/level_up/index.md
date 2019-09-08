@@ -1,4 +1,5 @@
 > 作者：帅涛
+>> 更新时间：2019-07-21
 
 《1-20级》主线任务按流程做完即可到20级。
 
@@ -83,3 +84,10 @@
 30个交一次任务，一次任务20000经验，然后循环交接任务就行。
 
 **满级才是这个游戏的开始！！**
+
+<div id="gitalk-container"></div>
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+<script src="/empire/js/library.js"></script> 
+<script type="text/javascript">setTitle("《帝国Online》练级篇");</script>
+        

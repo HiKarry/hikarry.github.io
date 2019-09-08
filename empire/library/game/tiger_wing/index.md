@@ -1,4 +1,5 @@
 > 作者：帅涛
+>> 更新时间：2019-07-21
 
 今天就教大家怎么免费获得一把坦克职业刀类单手神器虎翼。
 
@@ -13,3 +14,10 @@
 ![](1.jpg)
 
 做完任务我们在就接取最后一个任务，去揍右上角那个脸色发黄的兽人，就能获得一把 `虎翼`。武器可以去`国家11级武器店`完美，属性更强！！
+
+<div id="gitalk-container"></div>
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+<script src="/empire/js/library.js"></script> 
+<script type="text/javascript">setTitle("免费获得《虎翼》");</script>
+        

@@ -1,4 +1,5 @@
 > 作者：小螃蟹
+>> 更新时间：2019-07-21
 
 以下装备的分解都是由本人亲自测试过的，其中`x`代表游戏里没有该等级的装备。
 
@@ -40,3 +41,10 @@
 | 白玉 | x     | x     | x     | 61-65 |
 
 由上面的表格可知，如果想获取极效魔力精华，可以分解`50~60`级的稀有装备，也可以分解`35~40`级的史诗装备。
+
+<div id="gitalk-container"></div>
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+<script src="/empire/js/library.js"></script> 
+<script type="text/javascript">setTitle("魔力精华分解一览表");</script>
+        

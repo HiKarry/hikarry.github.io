@@ -1,4 +1,5 @@
 > 作者：帅涛
+>> 更新时间：2019-07-21
 
 
 <a href="http://helper/npc/20327159"><img src="/empire/image/monster/8210.png" width="50" height="50" style="vertical-align: text-bottom;" /></a> <span>蕾娜斯·瓦尔基里(8,32)</span><br/>
@@ -122,3 +123,10 @@
 <a href="http://helper/item/2250"><img src="/empire/image/item/265_4.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>【薩麥爾王子（精英）】閃光卡片</span><br/>
 
 战斗经验增加1.3倍 适合新人升级使用
+
+<div id="gitalk-container"></div>
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+<script src="/empire/js/library.js"></script> 
+<script type="text/javascript">setTitle("阿尔托利亚遗迹");</script>
+        

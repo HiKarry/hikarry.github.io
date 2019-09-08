@@ -1,4 +1,5 @@
 > 作者：小螃蟹
+>> 更新时间：2019-07-21
 
 攻略文章需要使用Markdown语法来书写，诚如阁下所见，这篇教程就是使用Markdown语法写的。
 
@@ -30,3 +31,10 @@
 基础篇介绍了一些常用的语法，5分钟就可以入门了。  
 进阶篇介绍了插入物品、技能、怪物、NPC、任务等的方法。
 
+
+<div id="gitalk-container"></div>
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+<script src="/empire/js/library.js"></script> 
+<script type="text/javascript">setTitle("文章书写规范");</script>
+        

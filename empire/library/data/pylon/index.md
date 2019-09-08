@@ -1,4 +1,5 @@
 > 作者：小螃蟹
+>> 更新时间：2019-07-21
 
 以下是花费了十几万金，幽能了几天才收集完成的数据。
 
@@ -62,3 +63,10 @@
 | 战后恢复 | 4-10    | 8-20    | 20-34   | 34-40   |
 | 宠物恢复 | 4-10    | 8-20    | 20-34   | 34-40   |
 
+
+<div id="gitalk-container"></div>
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+<script src="/empire/js/library.js"></script> 
+<script type="text/javascript">setTitle("幽能范围值一览表");</script>
+        

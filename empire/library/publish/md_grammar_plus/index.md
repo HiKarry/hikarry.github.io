@@ -1,4 +1,5 @@
 > 作者：小螃蟹
+>> 更新时间：2019-07-21
 
 以下的进阶语法是`帝国OL助手`app里自定义的Markdown语法，只能在app里才能使用，在其它Markdown编辑器里是看不到效果的。
 
@@ -72,3 +73,10 @@
 
 <a href="http://helper/task/54964"><img src="/empire/image/task/task.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>隐藏的卷轴</span><br/>
 
+
+<div id="gitalk-container"></div>
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+<script src="/empire/js/library.js"></script> 
+<script type="text/javascript">setTitle("Markdown进阶语法");</script>
+        
