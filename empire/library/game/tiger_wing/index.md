@@ -1,5 +1,5 @@
 > 作者：帅涛
->> 更新时间：2019-07-21
+>> 更新时间：2019-09-27
 
 今天就教大家怎么免费获得一把坦克职业刀类单手神器虎翼。
 
@@ -19,5 +19,5 @@
 <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
 <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
 <script src="/empire/js/library.js"></script> 
-<script type="text/javascript">setTitle("免费获得《虎翼》");</script>
+<script type="text/javascript">setTitle("免费获得虎翼");</script>
         

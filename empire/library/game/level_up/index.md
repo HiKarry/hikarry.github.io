@@ -1,5 +1,5 @@
 > 作者：帅涛
->> 更新时间：2019-07-21
+>> 更新时间：2019-09-27
 
 《1-20级》主线任务按流程做完即可到20级。
 
@@ -89,5 +89,5 @@
 <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
 <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
 <script src="/empire/js/library.js"></script> 
-<script type="text/javascript">setTitle("《帝国Online》练级篇");</script>
+<script type="text/javascript">setTitle("帝国OL练级篇");</script>
         
