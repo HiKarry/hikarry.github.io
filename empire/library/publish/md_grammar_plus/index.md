@@ -43,7 +43,7 @@
 
 效果如下(点击图标跳到怪物详情)：
 
-<a href="http://helper/monster/50933"><img src="/empire/image/monster/5111.png" width="53" height="53" style="vertical-align: text-bottom;" /></a> <span>死神</span><br/>
+<a href="http://helper/monster/50933"><img src="/empire/image/monster/5111.png" width="50" height="50" style="vertical-align: text-bottom;" /></a> <span>死神</span><br/>
 
 ------
 

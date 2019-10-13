@@ -5,7 +5,7 @@
 
 达到`55级`可以去阿尔托利亚城1，找扎古领取任务进去`天空城奥丁神殿`
 
-<a href="http://helper/npc/20017569"><img src="/empire/image/monster/5389.png" width="60" height="60" style="vertical-align: text-bottom;" /></a> <span>扎古(36,16)</span><br/>
+<a href="http://helper/npc/20017569"><img src="/empire/image/monster/5389.png" width="50" height="50" style="vertical-align: text-bottom;" /></a> <span>扎古(36,16)</span><br/>
 
 领取击败Zako和他兄弟的任务(本场战斗有点困难新手请找人带带)
 
@@ -26,13 +26,13 @@
 
 首先找到奥丁天空城上面的NPC`Sylon`
 
-<a href="http://helper/npc/20017570"><img src="/empire/image/monster/5596.png" width="60" height="60" style="vertical-align: text-bottom;" /></a> <span>Sylon(37,8)</span><br/>
+<a href="http://helper/npc/20017570"><img src="/empire/image/monster/5596.png" width="50" height="50" style="vertical-align: text-bottom;" /></a> <span>Sylon(37,8)</span><br/>
 
 击败他就能重新锻造max坐骑，需要一个max坐骑+50个放射性熔融核心+5000银币
 
 做完这个任务会有个`异界魔兽核心`，击杀中间那个寒冰龙
 
-<a href="http://helper/npc/20017571"><img src="/empire/image/monster/5629.png" width="80" height="80" style="vertical-align: text-bottom;" /></a> <span>(40,13)</span><br/>
+<a href="http://helper/npc/20017571"><img src="/empire/image/monster/5629.png" width="50" height="50" style="vertical-align: text-bottom;" /></a> <span>(40,13)</span><br/>
 
 可以获得一个宠物召唤石，有几率获得这个宠物
 

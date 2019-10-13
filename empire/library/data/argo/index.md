@@ -50,7 +50,7 @@
 
 例如查看以下怪物的技能：
 
-<a href="http://helper/monster/51006"><img src="/empire/image/monster/5111.png" width="53" height="53" style="vertical-align: text-bottom;" /></a> <span>死神</span><br/>
+<a href="http://helper/monster/51006"><img src="/empire/image/monster/5111.png" width="50" height="50" style="vertical-align: text-bottom;" /></a> <span>死神</span><br/>
 
 由于`死亡凋零`技能在第二回合才会释放，所以第一回合死神会进行普通攻击。
 
