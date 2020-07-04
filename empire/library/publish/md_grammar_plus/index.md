@@ -1,5 +1,5 @@
 > 作者：小螃蟹
->> 更新时间：2019-07-21
+>> 更新时间：2020-07-04
 
 以下的进阶语法是`帝国OL助手`app里自定义的Markdown语法，只能在app里才能使用，在其它Markdown编辑器里是看不到效果的。
 
@@ -72,6 +72,20 @@
 效果如下(点击图标显示任务详情)：
 
 <a href="http://helper/task/54964"><img src="/empire/image/task/task.png" width="36" height="36" style="vertical-align: middle;" /></a> <span>隐藏的卷轴</span><br/>
+
+------
+
+### 六、插入配装器角色
+点击配装器详情界面右上角的分享按钮，选择【生成码云】选项，会弹出插入该角色的代码。(安卓版暂时没有)
+
+示例：
+```
+[player:PEtkLLo6]  
+```
+
+效果如下(点击图标跳转到角色配装界面)：
+
+<a href="http://helper/player/LSwyO4IyeWs-s+xd5fNaOgSGD2uUsXENEnOfeCx9JAggbbQNjC0mQWpMyrwU5roVvcu+K3Kyr+RRwuaugdx6mkzwOwoTtAx2HRp2uml1hUikHeQQOO9AeIiDccqsvze4hnNETESJsXPGEgQmcPvrzz3LYTsVTxkFD0QTgMTwIC6HrXOOcAlSn-E8XskUIX2xY0XAY-yvGDt6sGaQBdq2f-BeJ3n7iNHMWMZ88buOOljaQchgXLBiz8RBDXGKrI3GFjutrfKz2ZCbvUoDfvWjZKG4NeeWdQGvBctWNUn9cGCL9ztLstgJFbF3kCEGyhF4yk96Rk3VdeELxWYVnJJA4IAddBAZaSKBTRVie7FoSW1sBrhFNdAnsa0VtMLrndT6KZrMLOhqDGQGj7nhC2+gdoqJZjO5ocUM-eO2m4DxnHz19aOOl6rZ7DwSTk8QWK34bkZeg+WKsF9w5bFGbhEyfUeygCrsVVF4eZLJIxARQNHsEO4eHgMvfV1bpT5bedK8kWEegijSutOAi+HRZBPkai7L33JO2x9keipwJTLkQ1WBHWVHUcdymBiVQBTx1CPLLxvgFKSSCV9yh2GnbQHM-N2KoyamfwWfW-KX3X3V2KnVzDTT8mSD1CBsP90jcEK4Qqjfui7Zai4zrffgv6y+vtKbwEdXcKwqZthwIWa9V5yvTPxvbdIxSbTmGhv+7PGr4xY-xbbRsIAnjhsVujHIptpX1g55p7ry+GFAZJwQFeohGo8uTMkksfiuU+Hr0+7rSdwJFJfSee52mvf7t+j3nNEV7rc="><img src="/empire/image/player/0551a468.png" width="50" height="50" style="vertical-align: text-bottom;" /></a> <span>新手练级</span><br/>
 
 
 <div id="gitalk-container"></div>
