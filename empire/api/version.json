@@ -8,6 +8,6 @@
         "title" : "发现新版本",
         "message" : "* 增加会员功能。\n* 增加云配装功能(配装器界面左上角进入)。",
         "url" : "http://www.fooapp.com/empire",
-        "version" : 17000
+        "version" : 17001
     }
 }
