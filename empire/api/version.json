@@ -6,8 +6,8 @@
         "method" : "qq",
         "groupkey" : "sSGSP_VllvgQj0oFsPsqqDofq60FToMJ",
         "title" : "发现新版本",
-        "message" : "* 增加会员功能。\n* 增加云配装功能(配装器界面左上角进入)。",
+        "message" : "* 增加天下第一武道会功能。\n* 增加配装器导出图片功能。\n* 增加配装器资料编辑功能(长按配装器列表)。\n* 增加配装器装备搜索功能。\n* 更换缓存数据库，防止缓存丢失。\n* 修复云配装幽能未满3个出现的bug。",
         "url" : "http://www.fooapp.com/empire",
-        "version" : 17001
+        "version" : 18000
     }
 }
