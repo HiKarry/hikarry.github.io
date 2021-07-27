@@ -1,7 +1,8 @@
 {
     "webcredentials": {
         "apps": [
-            "WML88BTVE8.com.fooapp.empire.helper"
+            "WML88BTVE8.com.fooapp.empire.helper",
+            "WML88BTVE8.com.fooapp.empire.helper.testing"
         ]
     },
     "applinks": {
@@ -9,6 +10,10 @@
         "details": [
             {
                 "appID": "WML88BTVE8.com.fooapp.empire.helper",
+                "paths": ["/empire/*"]
+            },
+            {
+                "appID": "WML88BTVE8.com.fooapp.empire.helper.testing",
                 "paths": ["/empire/*"]
             }
         ]
