@@ -3,6 +3,7 @@
     "message" : "成功",
     "data" : {
         "update" : true,
+        "force" : true,
         "method" : "qq",
         "groupkey" : "sSGSP_VllvgQj0oFsPsqqDofq60FToMJ",
         "title" : "发现新版本",
