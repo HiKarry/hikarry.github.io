@@ -8,8 +8,8 @@
         "groupkey_old" : "sSGSP_VllvgQj0oFsPsqqDofq60FToMJ",
         "groupkey" : "rwMaWaM7e18xYzXebFmEnpZb92Gd_lwr",
         "title" : "发现新版本",
-        "message" : "*进了1群就不要进2群了\n* 增加拳刃装备",
+        "message" : "*进了1群就不要进2群了\n* 增加拳刃装备。\n* 配装器详情增加【物理生命吸收】属性。\n* 拳刃支持幽能。\n* 增加巴風達收割技能。\n* 修复武道会装备拳刃不能使用近战技能的bug。",
         "url" : "http://www.fooapp.com/empire",
-        "version" : 20900
+        "version" : 30001
     }
 }
